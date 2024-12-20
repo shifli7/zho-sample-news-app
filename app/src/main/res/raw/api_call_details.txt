@@ -1,0 +1,17 @@
+url:
+ - https://api.nytimes.com/svc/search/v2/articlesearch.json?page=1&api-key=pf6FgeMTQXi38BAFb9voVvHtrEQlwUlp
+
+
+ input:
+  - page = 1
+  - api-key = pf6FgeMTQXi38BAFb9voVvHtrEQlwUlp
+
+
+ url:
+  - https://api.nytimes.com/svc/search/v2/articlesearch.json?q=trump&page=1&api-key=pf6FgeMTQXi38BAFb9voVvHtrEQlwUlp&
+
+
+  input:
+   - page = 1
+   - api-key = pf6FgeMTQXi38BAFb9voVvHtrEQlwUlp
+   - q = "query"

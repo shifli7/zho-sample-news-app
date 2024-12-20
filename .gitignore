@@ -15,6 +15,10 @@ captures/
 *.apk
 output.json
 
+## DON'T UPLOAD RECORDINGS
+*.webm
+
+
 # IntelliJ
 *.iml
 .idea/
